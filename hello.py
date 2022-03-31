@@ -6,6 +6,8 @@
 # 안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕안녕 
 # hihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihi
 # 재미있는 깃허브 실습 수업
+# fdzz
+# asdkfjaksdjflkasjdklfjalksd;faklsdjfalksdjflksdjklfasdlakjfsd --amend
 
 print("Hello world")
 print("Tell your world")
