@@ -8,6 +8,7 @@
 # 재미있는 깃허브 실습 수업
 # fdzz
 # asdkfjaksdjflkasjdklfjalksd;faklsdjfalksdjflksdjklfasdlakjfsd --amend
+# 승우기가 다 수정함
 
 print("Hello world")
 print("Tell your world")
